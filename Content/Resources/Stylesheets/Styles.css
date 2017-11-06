@@ -89,8 +89,9 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
-body.bod-color
+h1.linked
 {
-	background: #f0f8ff;
+	font-family: fantasy;
+	color: #008080;
 }
 
