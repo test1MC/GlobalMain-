@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/global develop Topic.htm"></TocEntry>
+  <TocEntry
+    Title="New entry"
+    Link="/Content/global develop linked Topic.htm" />
+</CatapultToc>

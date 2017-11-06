@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  MasterStylesheetOverride="True"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="true"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2017-11-06T12:44:26.1377163-08:00"
+  ParentMadCapCentralId="4393">
+  <Files>
+    <Url
+      Source="file:///C:/Users/mcolon/Documents/My Projects/global develop 6-11/linked global develop 6-1/linked global develop 6-1.flprj"
+      AbsoluteSource="file:///C:/Users/mcolon/Documents/My Projects/global develop 6-11/linked global develop 6-1/linked global develop 6-1.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../linked global develop 6-1/Content/global develop linked Topic.htm"
+      AbsoluteSource="file:///C:/Users/mcolon/Documents/My Projects/global develop 6-11/linked global develop 6-1/Content/global develop linked Topic.htm" />
+    <Url
+      Source="../../../linked global develop 6-1/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Users/mcolon/Documents/My Projects/global develop 6-11/linked global develop 6-1/Content/Resources/Stylesheets/Styles.css" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/global develop linked Topic.htm"
+      TimeStamp="11/6/2017 11:50:44 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Styles.css"
+      TimeStamp="11/6/2017 11:50:45 AM" />
+  </GeneratedFiles>
+</CatapultProject>
